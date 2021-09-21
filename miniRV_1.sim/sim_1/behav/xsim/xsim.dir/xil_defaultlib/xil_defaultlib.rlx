@@ -1,0 +1,25 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sim_1/new/miniRV_sim.v,1625555260,verilog,,,,miniRV_sim,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/ip/cpuclk/cpuclk.v,1625554747,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/ip/data_mem/sim/data_mem.v,,cpuclk,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v,1625554746,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/ip/cpuclk/cpuclk.v,,cpuclk_clk_wiz,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/ip/data_mem/sim/data_mem.v,1625708733,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/ip/inst_mem/sim/inst_mem.v,,data_mem,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/ip/inst_mem/sim/inst_mem.v,1626255316,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/ALU.v,,inst_mem,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/ALU.v,1625569996,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/Branch.v,,ALU,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/Branch.v,1625706291,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/Control.v,,Branch,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/Control.v,1625706654,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/DMem.v,,Control,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/DMem.v,1626333134,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/EX_MEM_Reg.v,,DMem,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/EX_MEM_Reg.v,1626327773,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/Hazard.v,,EX_MEM_Reg,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/Hazard.v,1626254894,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/ID_EX_Reg.v,,Hazard,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/ID_EX_Reg.v,1626146433,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/IF_ID_Reg.v,,ID_EX_Reg,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/IF_ID_Reg.v,1626144832,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/IMem.v,,IF_ID_Reg,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/IMem.v,1625551842,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/ImmGen.v,,IMem,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/ImmGen.v,1625568091,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/MEM_WB_Reg.v,,ImmGen,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/MEM_WB_Reg.v,1626327893,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/NextPC.v,,MEM_WB_Reg,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/NextPC.v,1625555874,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/PC.v,,NextPC,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/PC.v,1626144464,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/RegFile.v,,PC,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/RegFile.v,1626244848,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/miniRV.v,,RegFile,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
+C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sources_1/new/miniRV.v,1626328014,verilog,,C:/Users/Administrator/Desktop/miniRV_1/miniRV_1.srcs/sim_1/new/miniRV_sim.v,,miniRV,,,../../../../miniRV_1.srcs/sources_1/ip/cpuclk,,,,,
